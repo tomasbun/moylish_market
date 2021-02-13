@@ -1,4 +1,4 @@
-![](screenshots/Capture1.png)
+![](moylish_market/screenshots/Capture1.PNG)
 
 ###################
 What is CodeIgniter
