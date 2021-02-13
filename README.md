@@ -1,6 +1,6 @@
 # Summary
 
-## Web application developed using CodeIgniter framework. Features two kinds of users, registration, login, whishlist and shopping cart.
+Web application developed using CodeIgniter framework. Features two kinds of users, registration, login, whishlist and shopping cart.
 
 ![](screenshots/Capture1.png)
 ![](screenshots/Capture2.png)
