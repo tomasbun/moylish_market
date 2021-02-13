@@ -1,3 +1,5 @@
+![](screenshots/Capture1.png)
+
 ###################
 What is CodeIgniter
 ###################
